@@ -13,4 +13,4 @@ cp nginx.conf /etc/nginx/nginx.conf
 
 
 systemctl enable nginx
-systemctl start nginx
+systemctl restart nginx
